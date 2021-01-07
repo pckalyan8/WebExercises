@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container{
+    margin: 15px;
+}
+
+.mycards{
+    margin-bottom: 10px;
+}
+
+.covidpage-heading{
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 500;
+    color: #323f4b;
+}
+
+.mybutton{
+    font-family: Roboto;
+    font-size: 14px;
+    height: 36px;
+    width: 120px;
+    border-radius: 12px;
+    border-width: 0px;
+    background-color: #0967d2;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px;
+}
+
+.img-card{
+    background-size: contain;
+}
+
+.covid19-test-card{
+    background-color: #0967d219;
+    border-radius: 10px;
+}
+
+.inner-card{
+    margin: 10px;
+    padding: 4px;
+}
+
+.description{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    color: #707070;
+}
+.sim-card{
+    border-radius: 10%;
+    padding: 10px;
+    justify-content: center;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.green{
+    background-color: #3ebd93;
+}
+
+.rose{
+    background-color: #e668a7;
+}
+
+.purple{
+    background-color: #a368fc;
+}
+
+.sim-d{
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.v-card{
+    background-color: #e12d3919;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.card-heading{
+    font-family: Roboto;
+    font-size: 20px;
+    color: #323f4b;
+}

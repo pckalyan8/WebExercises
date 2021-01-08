@@ -1,2 +1,2 @@
 # Web Exercises
-web development exercises
+My web development practice exercises
